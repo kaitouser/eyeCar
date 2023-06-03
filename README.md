@@ -8,9 +8,16 @@ Project developed for evaluation purposes.
 ## Demo
 
 ## Table of Contents
-- [Members](#members)
-- [Software employed](#software-employed)
-- [Hardware employed](#hardware-employed)
+- [What is this?](#what-is-this)
+- [Requirements](#requirements)
+- [How to use](#how-to-use)
+- [Components](#components)
+- [Hardware Scheme](#hardware-scheme)
+- [Software Employed](#software-employed)
+- [Software Architecture](#software-architecture)
+- [3D designs](#3d-designs)
+- [Contributions](#contributions)
+- [Authors](#authors)
 
 ## What is this?
 This idea of this project is to create a car which can be controlled by the eye of the user. For the safety of the owner it automatically detect obstacles and dangerous environment, acting in response.
