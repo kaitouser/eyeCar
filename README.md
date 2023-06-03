@@ -1,29 +1,121 @@
+<img src="https://ceet.org.es/wp-content/uploads/2017/03/Logo-UAB.jpg" align="right" width="230" alt="header pic"/>
+
 # eyeCar
 Project developed for evaluation purposes. 
+
+[![Contributors][contributors-shield]][contributors-url]
 
 ## Demo
 
 ## Table of Contents
+- [Members](#members)
+- [Software employed](#software-employed)
+- [Hardware employed](#hardware-employed)
 
 ## What is this?
+This idea of this project is to create a car which can be controlled by the eye of the user. For the safety of the owner it automatically detect obstacles and dangerous environment, acting in response.
+Our main goal for this project was to make a system that could ease the use of sanitary wheelchair, making them more autonomous.
 
 ## Requirements
 
+
 ## How to use
+Currently it is working in basic standards, we made the movement possible through detecting the eye gaze and determine the direction wanted: 
+- Right / left: turn
+- Front: stay in motion
+- Up: start motion
+- Close: stop
 
 ## Components
+<a href=https://store.arduino.cc/products/arduino-nano> <img src="https://www.mouser.es/images/marketingid/2022/img/166335835.png?v=033123.0943" width="230"> </a> </br>
+
+- [Arduino Nano](https://store.arduino.cc/products/arduino-nano)
+    - Specs:
+        - Weight: 7g
+        - PCB size: 18 x 45 mm
+        - Arquitecture: AVR
+        - Power: 5V
+        - Flash Memory: 32 KB
+        - SRAM: 2KB
+        - Clock speed: 16 MHz
+        - Analog IN Pins: 8
+        - EEPROM: 1 KB
+        - DC Current per I/O Pins: 40 mA (I/O Pins)
+        - Input Voltage: 7-12V
+        - Digital I/O Pins: 22 (6 of which are PWM)
+        - PWM Output: 6
+        - Power Consumption: 19 mA
+
+<img src="https://cdn-reichelt.de/bilder/web/xxl_ws/A300/SEN-US01-02.png" width="230"> </br>
+- HC-SR04 (Ultrasonic sensors)
+    - Specs:
+        - Weight: 8.5g
+        - Dimension: 45mm x 20mm x 15mm
+        - Power Supply: +5V DC
+        - Quiescent Current : < 2mA
+        - Working Current: 15mA
+        - Effectual Angle: < 15°
+        - Ranging Distance : 2cm – 400 cm/1″ – 13ft
+        - Resolution : 0.3 cm
+        - Measuring Angle: 30 degree
+        - Trigger Input Pulse width: 10uS TTL pulse
+        - Echo Output Signal: TTL pulse proportional to the distance range
+
+<img src="https://cdn.bodanius.com/media/1/2ed102979_towerpro-sg90-9g-micro-servo-motor_900x600.png" width="230">
+
+- Micro servomotor SG90
+    - Specs:
+        - Weight: 9g
+        - Size: 22.2 x 11.8 x 31 mm
+        - Torque: 1.8 kg/cm
+        - Speed: 0.1s/60 degrees
+        - Power: ~5V
+        - Working temperature: 0 ºC - 55 ºC
+
+<img src="https://www.electronics123.com/web/image/product.product/5186/image_1024/%5BROB-09457%5D%20Motor%20Driver%201A%20Dual%20TB6612FNG?unique=97c537c" width="230"> 
+
+- Motor controller Driver 1a Dual TB6612FNG
+    - Specs:
+        - Dimensions: 0.8 x 0.8 mm
+        - Power supply voltage: VM = 15V max, VCC = 2.7-5.5V
+        - Output current: Iout = 1.2A (average) / 3.2A (peak)
+        - Standby control to save power
+        - CW/CCW/short brake/stop motor control modes
+        - Built-in thermal shutdown circuit and low voltage detecting circuit
+        - All pins of the TB6612FNG broken out to 0.1" spaced pins
+        - Filtering capacitors on both supply lines
+
+<img src="imgs/284.png" width="230"> 
+
+- x2 Micro motor LP with gear reducer 10:1
+- Protoboard
+- x2 pair of wheels
 
 ## Hardware Scheme
+![Model](imgs/HWstructure.png)
+
+## Software Employed
+* [Python 3.10.x](https://www.python.org/)
+* [C (Arduino IDE 2.1.0)](https://docs.arduino.cc/)
+* [Blender 3.5](https://www.blender.org/)
+* [UltiMaker Cura 5.3.1](https://ultimaker.com/software/ultimaker-cura/)
+* [PrusaSlicer 2.5.2](https://www.prusa3d.com/es/pagina/prusaslicer_424/)
 
 ## Software Architecture
 
+
 ## 3D designs
 
+
 ## Contributions
-Any contribution is welcome!
+
 
 ## Authors
-Jose Francisco Aguilera Oliver
-Sergio Barranco Aguilar
-Pau Bermúdez Valle
-Samya Karzazi El Bachiri
+* Pau Bermúdez Valle - 1604190 - <a href="https://github.com/SrKoko">SrKoko</a> </br>
+* Sergio Barranco Aguilar - 1606048 - <a href="https://github.com/Egoris78">Egoris78</a> </br>
+* Samya Karzazi el Bachiri - 1568589 - <a href="https://github.com/imsamkb13">imsamkb13</a> </br>
+* José Francisco Aguilera Oliver - 1601361 - <a href="https://github.com/kaitouser">kaitouser</a> </br>
+
+
+
+
