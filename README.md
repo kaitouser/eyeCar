@@ -27,9 +27,9 @@ Currently it is working in basic standards, we made the movement possible throug
 - Close: stop
 
 ## Components
-<img src="https://www.mouser.es/images/marketingid/2022/img/166335835.png?v=033123.0943" width="230"> </br>
+<img src="https://cdn-reichelt.de/bilder/web/xxl_ws/B300/ARDUINO_NANO_02.png" width="230"> </br>
 
-- [Arduino Nano](https://store.arduino.cc/products/arduino-nano)
+- Arduino Nano
     - Specs:
         - Weight: 7g
         - PCB size: 18 x 45 mm
