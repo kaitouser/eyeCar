@@ -112,6 +112,8 @@ Currently it is working in basic standards, we made the movement possible throug
 
 
 ## 3D designs
+<img src='./3D parts/funda_sensor.png' width="230"> </br>
+Fig. 1 - Ultrasonic sensor cover 
 
 
 ## Contributions
