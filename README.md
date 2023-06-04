@@ -114,31 +114,31 @@ Currently it is working in basic standards, we made the movement possible throug
 ## 3D designs
 - Ultrasonic sensor cover 
 
-<img src='./3D parts/funda_sensor.png' width="230"> </br>
+<img src='./3D parts/funda_sensor.png' width="300"> </br>
 
 - Wheel bolt bracket
 
-<img src='./3D parts/rueda_circulo_grande_x2.png' width="230"> </br>
+<img src='./3D parts/rueda_circulo_grande_x2.png' width="300"> </br>
 
 - Micromotor bracket
 
-<img src='./3D parts/soporte_motor_x2.png' width="230"> </br>
+<img src='./3D parts/soporte_motor_x2.png' width="300"> </br>
 
 - Layer support
 
-<img src='./3D parts/entrecapas_x8.png' width="230"> </br>
+<img src='./3D parts/entrecapas_x8.png' width="300"> </br>
 
 - Front wheels axis
 
-<img src='./3D parts/rueda_eje_grande.png' width="230"> </br>
+<img src='./3D parts/rueda_eje_grande.png' width="300"> </br>
 
 - Layer 1 and 2 - Power supplies and microelectronics
 
-<img src='./3D parts/layer3_madera.png' width="230"> </br>
+<img src='./3D parts/layer3_madera.png' width="300"> </br>
 
 - Layer 3 - Wheel support
 
-<img src='./3D parts/layer1_2_madera.png' width="230"> </br>
+<img src='./3D parts/layer1_2_madera.png' width="300"> </br>
 
 
 
