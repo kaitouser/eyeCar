@@ -115,6 +115,11 @@ Currently it is working in basic standards, we made the movement possible throug
 
 
 ## Contributions
+Our project aims to provide and contribute to people with reduced mobility and added disabilities to ease their use of wheelchairs or other mobility devices.
+We intend to achieve this goal through a comfortable use and a low difficulty curve, through "eye-tracking", since it will adapt to the directions desired by the user without least effort.
+This project works testing the aforementioned features using a miniature car model as a prototype, of course with safety in mind, being able to detect obstacles in both directions of traffic, to avoid any type of accident that could affect the user directly.
+Taking all these points into account, we can affirm that our project has a large component related to the computer vision field, this being its incentive, although the structuring and designing part of the car must also be included, where we emphasized above all on speed control, user negligence probability and other factors.
+We truly believe that our project has excellent potential and a goal of contributing our grain of sand to a needy and important part of society.
 
 
 ## Authors
