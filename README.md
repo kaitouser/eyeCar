@@ -6,6 +6,7 @@ Project developed for evaluation purposes.
 [![Contributors][contributors-shield]][contributors-url]
 
 ## Demo
+https://youtu.be/9e5DXK_3BVU
 
 ## Table of Contents
 - [What is this?](#what-is-this)
@@ -24,8 +25,17 @@ This idea of this project is to create a car which can be controlled by the eye 
 Our main goal for this project was to make a system that could ease the use of sanitary wheelchair, making them more autonomous.
 
 ## Requirements
-
-
+- For running the code these are the required languages and libraries:
+    * [C (Arduino IDE 2.1.0)](https://docs.arduino.cc/)
+        * [servo](https://docs.arduino.cc/tutorials/generic/basic-servo-control)
+    * [Python 3.10.x](https://www.python.org/)
+        * [numpy](https://numpy.org/doc/)
+        * [cmake](https://cmake.org/documentation/)
+        * [pySerial](https://pyserial.readthedocs.io/en/latest/)
+        * [time](https://docs.python.org/3/library/time.html)
+        * [math](https://docs.python.org/3/library/math.html)
+        * [dlib](http://dlib.net/python/index.html)
+        
 ## How to use
 Currently it is working in basic standards, we made the movement possible through detecting the eye gaze and determine the direction wanted: 
 - Right / left: turn
@@ -98,18 +108,16 @@ Currently it is working in basic standards, we made the movement possible throug
 - Protoboard
 - x2 pair of wheels
 
-## Hardware Scheme
+## Hardware scheme
 ![Model](imgs/HWstructure.png)
 
-## Software Employed
-* [Python 3.10.x](https://www.python.org/)
-* [C (Arduino IDE 2.1.0)](https://docs.arduino.cc/)
+## Design software employed 
 * [Blender 3.5](https://www.blender.org/)
 * [UltiMaker Cura 5.3.1](https://ultimaker.com/software/ultimaker-cura/)
 * [PrusaSlicer 2.5.2](https://www.prusa3d.com/es/pagina/prusaslicer_424/)
 
 ## Software Architecture
-
+![Model](imgs/diagramarlp.png)
 
 ## 3D designs
 - Ultrasonic sensor cover 
@@ -159,7 +167,4 @@ We truly believe that our project has excellent potential and a goal of contribu
 * Sergio Barranco Aguilar - 1606048 - <a href="https://github.com/Egoris78">Egoris78</a> </br>
 * Samya Karzazi el Bachiri - 1568589 - <a href="https://github.com/imsamkb13">imsamkb13</a> </br>
 * José Francisco Aguilera Oliver - 1601361 - <a href="https://github.com/kaitouser">kaitouser</a> </br>
-
-
-
 
