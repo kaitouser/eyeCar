@@ -146,11 +146,11 @@ Currently it is working in basic standards, we made the movement possible throug
 
 - Layer 1 and 2 - Power supplies and microelectronics
 
-<img src='./3D parts/layer3_madera.png' width="300"> </br>
+<img src='./3D parts/layer1_2_madera.png' width="300"> </br>
 
 - Layer 3 - Wheel support
 
-<img src='./3D parts/layer1_2_madera.png' width="300"> </br>
+<img src='./3D parts/layer3_madera.png' width="300"> </br>
 
 
 
