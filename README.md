@@ -1,4 +1,4 @@
-<img src='./imgs/eyeCar.png' align="right" width="400" alt="header pic"/>
+<img src='./imgs/eyeCar2.png' align="right" width="400" alt="header pic"/>
 
 # eyeCar
 Project developed for evaluation purposes. 
