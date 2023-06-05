@@ -3,8 +3,6 @@
 # eyeCar
 Project developed for evaluation purposes. 
 
-[![Contributors][contributors-shield]][contributors-url]
-
 ## Demo
 https://youtu.be/9e5DXK_3BVU
 
@@ -107,6 +105,7 @@ Currently it is working in basic standards, we made the movement possible throug
 - x2 Micro motor LP with gear reducer 10:1
 - Protoboard
 - x2 pair of wheels
+- Battery Poweradd Pilot 2GS 10000mAh
 
 ## Hardware scheme
 ![Model](imgs/HWstructure.png)
