@@ -1,4 +1,4 @@
-<img src="https://ceet.org.es/wp-content/uploads/2017/03/Logo-UAB.jpg" align="right" width="230" alt="header pic"/>
+<img src='./img/eyeCar.png' align="right" width="230" alt="header pic"/>
 
 # eyeCar
 Project developed for evaluation purposes. 
