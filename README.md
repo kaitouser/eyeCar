@@ -12,7 +12,7 @@ https://youtu.be/9e5DXK_3BVU
 - [How to use](#how-to-use)
 - [Components](#components)
 - [Hardware Scheme](#hardware-scheme)
-- [Software Employed](#software-employed)
+- [Design software employed](#design-software-employed)
 - [Software Architecture](#software-architecture)
 - [3D designs](#3d-designs)
 - [Contributions](#contributions)
