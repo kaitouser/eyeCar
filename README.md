@@ -100,6 +100,10 @@ Currently it is working in basic standards, we made the movement possible throug
         - All pins of the TB6612FNG broken out to 0.1" spaced pins
         - Filtering capacitors on both supply lines
 
+<img src="https://cdn.bluecommerce.shop/media/1/5ba103508_hc-05-bluetooth-module_900x600.png" width="230"> 
+
+- Bluetooth module HC-05
+
 <img src="imgs/284.png" width="230"> 
 
 - x2 Micro motor LP with gear reducer 10:1
