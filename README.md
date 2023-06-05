@@ -106,6 +106,7 @@ Currently it is working in basic standards, we made the movement possible throug
 - Protoboard
 - x2 pair of wheels
 - Battery Poweradd Pilot 2GS 10000mAh
+- Battery holder x6 AA
 
 ## Hardware scheme
 ![Model](imgs/HWstructure.png)
