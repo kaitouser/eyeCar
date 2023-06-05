@@ -150,7 +150,7 @@ Currently it is working in basic standards, we made the movement possible throug
 
 - Layer 3 - Wheel support
 
-<img src='./3D parts/layer3_madera.png' width="300"> </br>
+<img src='./3D parts/layer3_madera_f.png' width="300"> </br>
 
 
 
